@@ -8,4 +8,4 @@ Welcome to my collection of LeetCode solutions, where I aim to write code that's
 ## Getting Started
 Clone this repository to explore the solutions:
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/data-vishwa/leetcode_solutions.git
